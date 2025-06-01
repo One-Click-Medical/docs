@@ -208,4 +208,4 @@ Le système affiche automatiquement un avertissement concernant les interactions
 
 ## Assistance supplémentaire
 
-Si vous avez des questions ou rencontrez des difficultés avec le module de gestion des médicaments, veuillez contacter le support technique de OneClickMedical à l'adresse support@oneclickmedical.com ou par téléphone au +33 (0)1 23 45 67 89.
+Si vous avez des questions ou rencontrez des difficultés avec le module de gestion des médicaments, veuillez contacter le support technique de OneClickMedical à l'adresse support@oneclickmedical.com ou par téléphone au +229 01609348.
