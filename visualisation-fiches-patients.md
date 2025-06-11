@@ -234,19 +234,6 @@ La page de détail patient est protégée par un système de contrôle d'accès 
 
 Cette protection est mise en œuvre via le HOC (Higher-Order Component) `withRoleProtection` qui vérifie le rôle de l'utilisateur avant d'afficher la page.
 
-## Fonctionnalités futures
-
-Le système de visualisation des fiches patients continuera d'évoluer avec les améliorations suivantes prévues :
-
-1. Export des données médicales au format PDF
-2. Ajout de nouveaux types de graphiques pour d'autres paramètres médicaux
-3. Comparaison avec des valeurs de référence sur les graphiques
-4. Annotations sur les graphiques pour marquer des événements importants
-5. Filtrage des données par période
-6. Amélioration de la page d'historique avec filtrage par type de consultation
-7. Téléchargement des rapports de consultation individuels
-8. Visualisation interactive des tendances à long terme
-
 ---
 
 Ce document a été créé pour aider les utilisateurs et les développeurs à comprendre le fonctionnement du système de visualisation des fiches patients dans OneClickMedical. Pour toute question ou suggestion, veuillez contacter l'équipe technique.
