@@ -212,7 +212,7 @@ S5
 
 ## Notifications socket lors des changements de statut de RDV
 
-**Description :** Ex: pending → confirmed, annulé, etc.
+**Description :** Ex:création, pending → confirmed, annulé, etc.
 
 **Labels :** `notifications,socket,backend,type:feature,priority:high`
 
@@ -221,7 +221,7 @@ S5
 
 ## Envoi de notifications par email
 
-**Description :** Ex: nouveau RDV, rappel, ordonnance disponible
+**Description :** Ex: nouveau RDV, rappel, changement de statut, coté médecin, coté patient, ordonnance disponible
 
 **Labels :** `notifications,email,backend,type:feature,priority:medium`
 
@@ -293,6 +293,15 @@ S6
 
 ---
 
+
+
+## Implémentation du système de visualisation des fiches patients
+**Description :** Mise en place de l'API de détail patient, correction des erreurs TypeScript dans le service chat et optimisation du rendu des composants frontend pour la visualisation des données médicales des patients.
+
+**Labels :** `patient,frontend,backend,type:feature,type:bugfix,priority:high`
+
+---
+
 ## Changement dynamique de rôle
 
 **Description :** Le super-médecin peut switcher de rôle pour tester
@@ -327,5 +336,16 @@ S7
 
 **Labels :** `super-admin,auth,type:feature,priority:medium`
 
+
+---
+
+## Gestion par le patient des Rendez-vous proposés par le médecin 
+
+**Description :** Confirmation de rendez-vous par le patient;
+Rejet de rendez-vous par le patient;
+Repport de rendez-vous par le patient;
+Suppression de rendez-vous par le patient;
+
+**Labels :** `patient,rendez-vous,type:feature,priority:medium`
 
 ---
